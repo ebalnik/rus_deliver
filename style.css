@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(250, 228, 30);
+}
+
+header {
+  width: 300ps;
+  height: 160px;
+  background: rgb(235, 215, 34);
+}
+
+header h1 {
+  font-family: "Tilt Prism", cursive;
+  font-size: 80px;
+  margin-left: 25%;
+}
+
+.krus {
+  width: 550px;
+  height: 300px;
+  margin-top: 130px;
+  margin-left: 100px;
+}
+
+header h2 {
+  font-family: "Tilt Prism", cursive;
+  font-size: 50px;
+}
+
+header p {
+  font-family: "Tilt Prism", cursive;
+  margin-left: 35%;
+  font-size: 30px;
+}
+
+.koo {
+  margin-left: 650px;
+  margin-top: 50px;
+  width: 1200px;
+}
+
+.speed img {
+  width: 800px;
+  margin-top: 50px;
+  margin-left: 25%;
+}
+
+.vano {
+  font-family: "Tilt Prism", cursive;
+  width: 500px;
+  height: 100px;
+}
+
+.speed p {
+    margin-left: 320px;
+    margin-top: 50px;
+    width: 1200px;
+    font-family: "Tilt Prism", cursive;
+    font-size: 90px;
+}
+
+.frends {
+    margin-left: 400px;
+    width: 400px;
+    height: 400px;
+}
+
+.frends p {
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 1200px;
+    font-family: "Tilt Prism", cursive;
+    font-size: 90px;
+}
+
+.love {
+    margin-top: 900px;
+    margin-left: 20%;
+    font-family: "Tilt Prism", cursive;
+    font-size: 90px;
+}
+
+.kolekt {
+    margin-left: 20%;
+}
